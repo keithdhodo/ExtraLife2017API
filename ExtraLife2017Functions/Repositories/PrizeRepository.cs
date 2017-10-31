@@ -44,7 +44,7 @@ namespace ExtraLife2017Functions.Repositories
             {
                 new Prize()
                 {
-                    ReleaseDate = DateTime.Now
+                    DateAdded = DateTime.Now
                 }
             };
             return Prize;
@@ -76,8 +76,8 @@ namespace ExtraLife2017Functions.Repositories
 
             prize.PrizeId = prizes.Max(p => p.PrizeId) + 1; // Assign a new Id
             var utcNow = new DateTimeOffset(DateTime.UtcNow);
-            prize.ReleaseDate = ((new DateTimeOffset(prize.ReleaseDate) - new DateTimeOffset(DateTime.UtcNow)).Minutes >= 5)
-                ? prize.ReleaseDate.ToUniversalTime()
+            prize.DateAdded = ((new DateTimeOffset(prize.DateAdded) - new DateTimeOffset(DateTime.UtcNow)).Minutes >= 5)
+                ? prize.DateAdded.ToUniversalTime()
                 : DateTime.UtcNow; // if the timestamp is not in the future by more than five minutes, use DateTime.UtcNow
 
             await WriteDataAsync(new List<Prize>() { prize });

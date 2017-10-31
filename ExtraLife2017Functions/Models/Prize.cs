@@ -10,6 +10,10 @@ namespace ExtraLife2017Functions.Models
         [BsonId]
         [BsonRepresentation(BsonType.String)]
         public Guid _id { get; set; }
+        [BsonElement("DisplayDate")]
+        [JsonProperty("displayDate")]
+        [BsonDateTimeOptions(Kind = DateTimeKind.Utc)]
+        public DateTime DisplayDate { get; set; }
 
         [BsonElement("Description")]
         [JsonProperty("description")]
@@ -17,18 +21,21 @@ namespace ExtraLife2017Functions.Models
         [BsonElement("Price")]
         [JsonProperty("price")]
         public decimal Price { get; set; }
-        [BsonElement("ProductCode")]
-        [JsonProperty("productCode")]
-        public string ProductCode { get; set; }
-        [BsonElement("ProductId")]
-        [JsonProperty("productId")]
+        //[BsonElement("ProductCode")]
+        //[JsonProperty("productCode")]
+        //public string ProductCode { get; set; }
+        [BsonElement("PrizeId")]
+        [JsonProperty("prizeId")]
         public int PrizeId { get; set; }
-        [BsonElement("ProductName")]
-        [JsonProperty("productName")]
+        [BsonElement("PrizeName")]
+        [JsonProperty("prizeName")]
         public string ProductName { get; set; }
-        [BsonElement("ReleaseDate")]
-        [JsonProperty("releaseDate")]
+        [BsonElement("DateAdded")]
+        [JsonProperty("dateAdded")]
         [BsonDateTimeOptions(Kind = DateTimeKind.Utc)]
-        public DateTime ReleaseDate { get; set; }
+        public DateTime DateAdded { get; set; }
+        [BsonElement("WonBy")]
+        [JsonProperty("wonBy")]
+        public string WonBy { get; set; }
     }
 }
