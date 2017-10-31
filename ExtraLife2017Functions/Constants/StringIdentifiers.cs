@@ -14,6 +14,6 @@ namespace ExtraLife2017Functions.Constants
 
         public static readonly string KeithsMachineName = "WIN10-P5MJICTH";
         public static readonly string SampleDataLocalPath = "./SampleData/seed.json";
-        public static readonly string SampleDataLocalPathAzure = $"D:/home/site/repository/ExtraLife2017Functions/SampleData/seed.json";
+        public static readonly string SampleDataLocalPathAzure = $"D:/home/site/repository/ExtraLife2017Functions/SeedData/seed.json";
     }
 }
