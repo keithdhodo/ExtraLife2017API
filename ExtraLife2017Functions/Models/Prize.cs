@@ -21,9 +21,9 @@ namespace ExtraLife2017Functions.Models
         [BsonElement("Price")]
         [JsonProperty("price")]
         public decimal Price { get; set; }
-        //[BsonElement("ProductCode")]
-        //[JsonProperty("productCode")]
-        //public string ProductCode { get; set; }
+        [BsonElement("Tier")]
+        [JsonProperty("tier")]
+        public string Tier { get; set; }
         [BsonElement("PrizeId")]
         [JsonProperty("prizeId")]
         public int PrizeId { get; set; }
