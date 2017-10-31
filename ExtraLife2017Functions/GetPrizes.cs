@@ -15,14 +15,14 @@ namespace ExtraLife2017Functions
 {
     public static class GetPrizes
     {
-        [FunctionName("GetValues")]
+        [FunctionName("GetPrizes")]
 
         public static HttpResponseMessage Run(
-            [HttpTrigger(AuthorizationLevel.Function, "get", Route = "Products")]
+            [HttpTrigger(AuthorizationLevel.Function, "get", Route = "Prizes")]
             HttpRequestMessage req,
             TraceWriter log)
         {
-            log.Info("C# HTTP trigger function processed a request.");
+            log.Info("GetPrizes HTTP trigger function processed a request.");
 
             IPrizeRepository repository = new PrizeRepository();
             var prizes = repository.RetrieveAsync().Result.ToImmutableList();
