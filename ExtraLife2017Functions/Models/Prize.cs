@@ -14,7 +14,6 @@ namespace ExtraLife2017Functions.Models
         [JsonProperty("displayDate")]
         [BsonDateTimeOptions(Kind = DateTimeKind.Utc)]
         public DateTime DisplayDate { get; set; }
-
         [BsonElement("Description")]
         [JsonProperty("description")]
         public string Description { get; set; }
@@ -23,7 +22,7 @@ namespace ExtraLife2017Functions.Models
         public decimal Price { get; set; }
         [BsonElement("Tier")]
         [JsonProperty("tier")]
-        public string Tier { get; set; }
+        public int Tier { get; set; }
         [BsonElement("PrizeId")]
         [JsonProperty("prizeId")]
         public int PrizeId { get; set; }
