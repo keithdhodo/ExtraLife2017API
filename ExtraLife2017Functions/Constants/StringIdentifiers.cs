@@ -10,7 +10,7 @@ namespace ExtraLife2017Functions.Constants
     {
         public static readonly string MongoDbConnectionStringName = "MongoDBConnectionString";
         public static readonly string DbName = "astraios";
-        public static readonly string CAPBDocumentCollectionName = "extralife2017_prizes";
+        public static readonly string ExtraLife2017Prizes = "extralife2017_prizes";
 
         public static readonly string KeithsMachineName = "WIN10-P5MJICTH";
         public static readonly string SampleDataLocalPath = "./SampleData/product.json";

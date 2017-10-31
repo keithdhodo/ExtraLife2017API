@@ -57,7 +57,7 @@ namespace ExtraLife2017Functions.Repositories
         public async Task<IEnumerable<Prize>> RetrieveAsync()
         {
             await InsertTheInitialData();
-            var collection = Database.GetCollection<BsonDocument>(StringIdentifiers.CAPBDocumentCollectionName);
+            var collection = Database.GetCollection<BsonDocument>(StringIdentifiers.ExtraLife2017Prizes);
             var prizes = await collection.FindAsync<Prize>(new BsonDocument()).Result.ToListAsync();
 
             return prizes;
@@ -116,7 +116,7 @@ namespace ExtraLife2017Functions.Repositories
 
             List<BsonDocument> documents = prizes.ConvertAll(p => p.ToBsonDocument());
 
-            var collection = Database.GetCollection<BsonDocument>(StringIdentifiers.CAPBDocumentCollectionName);
+            var collection = Database.GetCollection<BsonDocument>(StringIdentifiers.ExtraLife2017Prizes);
 
             if (isUpdate && prizes.Count == 1)
             {
@@ -146,7 +146,7 @@ namespace ExtraLife2017Functions.Repositories
         public async Task InsertTheInitialData()
         {
             // http://mongodb.github.io/mongo-csharp-driver/2.4/getting_started/quick_tour/
-            var collection = Database.GetCollection<BsonDocument>(StringIdentifiers.CAPBDocumentCollectionName);
+            var collection = Database.GetCollection<BsonDocument>(StringIdentifiers.ExtraLife2017Prizes);
             var count = await collection.CountAsync(new BsonDocument());
 
             if (count == 0)
