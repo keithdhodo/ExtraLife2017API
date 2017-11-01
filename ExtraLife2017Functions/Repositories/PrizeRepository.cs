@@ -153,6 +153,31 @@ namespace ExtraLife2017Functions.Repositories
             {
                 var prizeData = CreateSeedData();
 
+                for (int i = 0; i < prizeData.Count; i++)
+                {
+                    var prize = prizeData[i];
+
+                    if (prize._id == Guid.Empty)
+                    {
+                        prize._id = Guid.NewGuid();
+                    }
+
+                    if (prize.PrizeId == 0)
+                    {
+                        prize.PrizeId = i + 1;
+                    }
+
+                    if (prize.DateToDisplay == DateTime.MinValue)
+                    {
+                        prize.DateToDisplay = DateTime.UtcNow;
+                    }
+
+                    if (prize.DateAdded == DateTime.MinValue)
+                    {
+                        prize.DateAdded = DateTime.UtcNow;
+                    }
+                }
+
                 // Use InsertOneAsync for single BsonDocument insertion.
                 await WriteDataAsync(prizeData);
             }

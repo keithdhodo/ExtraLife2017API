@@ -1,101 +1,2337 @@
 [
   {
-    "Description": "\"This is Fine\" Dog Stuffed Animal Collectible",
-    "DisplayDate": "2017-10-31T00:00:00-07:00",
-    "PrizeId": 1,
+
+    "PrizeName": "Super Nintendo Classic Edition",
+    "Donor": "\nhttps://twitter.com/ARTHURBRUNN",
+    "Tier": 10,
+    "Notes": "Given to Subhedgehog out of nowhere during / after the play-in game.",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "1 Batch of Red Chorizo",
+    "Donor": "@nwsidhe",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "1 Bottle of Salsa de Arbol",
+    "Donor": "@nwsidhe",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2lb Slab of Homemade Bacon",
+    "Donor": "@nwsidhe",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2lb Slab of Homemade Bacon",
+    "Donor": "@nwsidhe",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2lb Slab of Homemade Bacon",
+    "Donor": "@nwsidhe",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2lb Slab of Homemade Bacon",
+    "Donor": "@nwsidhe",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Pie",
+    "Donor": "@nwsidhe",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Axis & Allies 1942 Revised Edition (board game)",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Axis & Allies Anniversary Edition (board game)",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Betrayal at Baldur's Gate (board game)",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "D&D 5th Edition campaign book - Curse of Strahd (signed by Chris Perkins)",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "D&D 5th Edition campaign book - Frost King's Thunder (signed by Chris Perkins)",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "D&D 5th Edition campaign book - Princes of the Apocalypse",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "D&D 5th Edition campaign book - Tomb of Annihilation (signed by Chris Perkins)",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "D&D My Little Pony dice set and tin (convention exclusive)",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Hikari Minis - Chopper (silver)",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Star Wars - Aayla Secura",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Star Wars - C-3PO  (unfinished)",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Star Wars - Jawa",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Star Wars - Obi-Wan Kenobi",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Star Wars - R5-D4",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Star Wars - Red Snaggletooth",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Star Wars Rebels - Captain Rex",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Star Wars Rebels - Darth Maul",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Optimus Prime transforming battery pack (convention exclusive)",
+    "Donor": "Aaron",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Lego Star Wars Slave I set (1996 pieces)",
+    "Donor": "Aaron",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "MST3K 2017 Poster (signed by Joel Hodgson, Jonah Ray, Felicia Day, and Patton Oswalt)",
+    "Donor": "Aaron",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Destiny 2 - PC",
+    "Donor": "Brandon K",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/l8cxca4.jpg",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Destiny 2 - PC",
+    "Donor": "Brandon K",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/l8cxca4.jpg",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Destiny 2 - PS4",
+    "Donor": "Brandon K",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/l8cxca4.jpg",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Destiny 2 - PS4",
+    "Donor": "Brandon K",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/l8cxca4.jpg",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Destiny 2 - Xbox One",
+    "Donor": "Brandon K",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/l8cxca4.jpg",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Destiny 2 - Xbox One",
+    "Donor": "Brandon K",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/l8cxca4.jpg",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Logitech Gaming Laptop bag, Cloud 9 Mousepad and T Shirt",
+    "Donor": "Brandon K",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/7Fq84gU.jpg",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Columbia Sportswear x Star Wars: Rogue One Men's Imperial Jacket, size L",
+    "Donor": "Brandon K",
+    "Tier": 50,
+    "Notes": "https://i.imgur.com/P9YqnVS.jpg",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Portland Timbers Red and Black Team Signed Replica Kit, size L",
+    "Donor": "Brandon K",
+    "Tier": 50,
+    "Notes": "https://i.imgur.com/kDG9Zxp.jpg",
+    "Restriction": "Timbers",
+    "WonBy": "https://i.imgur.com/iH7JPoY.jpg"
+  },
+  {
+
+    "PrizeName": "Blizzcon Exclusive Vinyl Figures",
+    "Donor": "Brett B",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Leatherman Wave Multitool",
+    "Donor": "Brett B",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Whitecaps Banner",
+    "Donor": "Brett B",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Whitecaps Flag",
+    "Donor": "Brett B",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Whitecaps Flag",
+    "Donor": "Brett B",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Breath of the Wild backpack ",
+    "Donor": "Brynn K.",
+    "Tier": 10,
+    "Notes": "https://goo.gl/5e6sGS",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "$500 Tattoo G.C. from Brynn",
+    "Donor": "Brynn K.",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Authentic Retro White Timbers Jersey (Sm)",
+    "Donor": "Dave Wagoner",
+    "Tier": 10,
+    "Notes": "https://imgur.com/a/vg7rP",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Don't Panic Timbers Fan Scarf",
+    "Donor": "Dave Wagoner",
+    "Tier": 10,
+    "Notes": "https://imgur.com/a/tfExY",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Giselle (Purple) Fringe Ultra Rare NP TA Scarf",
+    "Donor": "Dave Wagoner",
+    "Tier": 10,
+    "Notes": "https://imgur.com/a/I1zqu",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Gold Fringe Championship NP TA Scarf",
+    "Donor": "Dave Wagoner",
+    "Tier": 10,
+    "Notes": "https://imgur.com/a/ZLPP0",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Gold Fringe Championship NP TA Scarf",
+    "Donor": "Dave Wagoner",
+    "Tier": 10,
+    "Notes": "https://imgur.com/a/ZLPP0",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Timber Jim Spread The Love Ultra Rare TA Scarf",
+    "Donor": "Dave Wagoner",
+    "Tier": 10,
+    "Notes": "https://imgur.com/a/Tbr0D",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Amazon Echo Show",
+    "Donor": "Dave Wagoner",
+    "Tier": 50,
+    "Notes": "https://imgur.com/a/rmt1e",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
     "PrizeName": "\"This is Fine\" Dog Stuffed Animal Collectible",
-    "DateAdded": "2017-10-31T00:00:00-07:00",
+    "Donor": "Glenn White",
     "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
     "WonBy": ""
   },
   {
-    "Description": "Call of Duty: WW2, winner chooses platform and format",
-    "DisplayDate": "2017-10-31T00:00:00-07:00",
-    "PrizeId": 2,
-    "PrizeName": "Call of Duty: WW2",
-    "DateAdded": "2017-10-31T00:00:00-07:00",
+
+    "PrizeName": "1 mo EA Access - Xbox",
+    "Donor": "Glenn White",
     "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
     "WonBy": ""
   },
   {
-    "Description": "Call of Duty: WW2, winner chooses platform and format",
-    "DisplayDate": "2017-10-31T00:00:00-07:00",
-    "PrizeId": 3,
-    "PrizeName": "Call of Duty: WW2",
-    "DateAdded": "2017-10-31T00:00:00-07:00",
+
+    "PrizeName": "Anykey Hoodie - XL",
+    "Donor": "Glenn White",
     "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
     "WonBy": ""
   },
   {
-    "Description": "Call of Duty: WW2, winner chooses platform and format",
-    "DisplayDate": "2017-10-31T00:00:00-07:00",
-    "PrizeId": 4,
-    "PrizeName": "Call of Duty: WW2",
-    "DateAdded": "2017-10-31T00:00:00-07:00",
+
+    "PrizeName": "Astro A10 Headset (Signed by Stefan Frei)",
+    "Donor": "Glenn White",
     "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
     "WonBy": ""
   },
   {
-    "Description": "Call of Duty: WW2, winner chooses platform and format",
-    "DisplayDate": "2017-10-31T00:00:00-07:00",
-    "PrizeId": 5,
-    "PrizeName": "Call of Duty: WW2",
-    "DateAdded": "2017-10-31T00:00:00-07:00",
+
+    "PrizeName": "Battlefield 1 - Early Enlister Edition - PS4",
+    "Donor": "Glenn White",
     "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
     "WonBy": ""
   },
   {
-    "Description": "Call of Duty: WW2, winner chooses platform and format",
-    "DisplayDate": "2017-10-31T00:00:00-07:00",
-    "PrizeId": 6,
-    "PrizeName": "Call of Duty: WW2",
-    "DateAdded": "2017-10-31T00:00:00-07:00",
+
+    "PrizeName": "Battlefield 1 - PC - Digital",
+    "Donor": "Glenn White",
     "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
     "WonBy": ""
   },
   {
-    "Description": "Call of Duty: WW2, winner chooses platform and format",
-    "DisplayDate": "2017-10-31T00:00:00-07:00",
-    "PrizeId": 7,
-    "PrizeName": "Call of Duty: WW2",
-    "DateAdded": "2017-10-31T00:00:00-07:00",
+
+    "PrizeName": "Battlefield 1 - PC - Digital",
+    "Donor": "Glenn White",
     "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
     "WonBy": ""
   },
   {
-    "Description": "Call of Duty: WW2, winner chooses platform and format",
-    "DisplayDate": "2017-10-31T00:00:00-07:00",
-    "PrizeId": 8,
-    "PrizeName": "Call of Duty: WW2",
-    "DateAdded": "2017-10-31T00:00:00-07:00",
+
+    "PrizeName": "Battlefield 1 - Xbox One",
+    "Donor": "Glenn White",
     "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
     "WonBy": ""
   },
   {
-    "Description": "Call of Duty: WW2, winner chooses platform and format",
-    "DisplayDate": "2017-10-31T00:00:00-07:00",
-    "PrizeId": 9,
-    "PrizeName": "Call of Duty: WW2",
-    "DateAdded": "2017-10-31T00:00:00-07:00",
+
+    "PrizeName": "Battlefield 1 - Xbox One - Digital",
+    "Donor": "Glenn White",
     "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
     "WonBy": ""
   },
   {
-    "Description": "Call of Duty: WW2, winner chooses platform and format",
-    "DisplayDate": "2017-10-31T00:00:00-07:00",
-    "PrizeId": 10,
-    "PrizeName": "Call of Duty: WW2",
-    "DateAdded": "2017-10-31T00:00:00-07:00",
+
+    "PrizeName": "Battlefield 1 - Xbox One - Digital",
+    "Donor": "Glenn White",
     "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
     "WonBy": ""
   },
   {
-    "Description": "Call of Duty: WW2, winner chooses platform and format",
-    "DisplayDate": "2017-10-31T00:00:00-07:00",
-    "PrizeId": 11,
-    "PrizeName": "Call of Duty: WW2",
-    "DateAdded": "2017-10-31T00:00:00-07:00",
+
+    "PrizeName": "Battlefield Revolution - PS4",
+    "Donor": "Glenn White",
     "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Battlefield Revolution - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Battlefield Revolution - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Battlefield Revolution - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Battlefield Revolution - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Betrayal at House on the Hill Widow's Walk Expansion",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Chopper Hikari Mini - Gold Sparkle",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Crackdown Orb Collectible",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Darth Vader Hikari Mini - Pink Sparkle",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Darth Vader Pop - 143 - Rogue One Edition",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Elder Scrolls Online Drinking Stein",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Elder Scrolls Online Drinking Stein",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Evil Within 2 Portable Charger",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - PS4 - Autographed: Cristian Roldan",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - PS4 - Autographed: Cristian Roldan",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - PS4 - Autographed: Stefan Frei",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - PS4 - Autographed: Stefan Frei",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - PS4 - No Autograph",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - PS4 - No Autograph",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - PS4 - No Autograph",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - PS4 - No Autograph",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - PS4 - No Autograph",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - Xbox - Autographed: Cristian Roldan",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - Xbox - Autographed: Cristian Roldan",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - Xbox - Autographed: Stefan Frei",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - Xbox - Autographed: Stefan Frei",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - Xbox One - No Autograph",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - Xbox One - No Autograph",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Star Wars Wristbands",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Han Solo and Greedo Pop Salt and Pepper Shakers",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Joker Figure Wooden Collectible",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Kendall Waston Signed Captain's Armband",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Kid Robot TMNT Raphael Ooze Action",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Knee Jerk Card Came",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Love 2 Hate Card Game",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 17 - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Madden 18 - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Mass Effect AI Hoodie - XL",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Mass Effect Andromeda - PC - Digital",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Mass Effect Andromeda - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Mirror's Edge Catalyst - PC - Digital",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "MTG Deckbuilders Toolkit",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "NBA Live - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "NBA Live - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "NBA Live - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "NBA Live - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "NBA Live - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "NHL 18 - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "NHL 18 - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "NHL 18 - PS4",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "NHL 18 - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "NHL 18 - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "NHL 18 - Xbox One",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Pair of Game-Worn Boots - Green - Signed: Stefan Frei",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "R2D2 and C3PO Pin T Shirt - XL",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "R2D2 and C3PO Pin T Shirt - XL",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "ReAction Alien Action Figure",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Replica Sounders MLS Cup Ring",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Replica Sounders MLS Cup Ring",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Rey and BB-8 Elite Series Disney Figures",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Roldan is Hungry Scarf - Autographed: Cristian Roldan",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Roldan is Hungry Scarf - Autographed: Cristian Roldan",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Sheanon Williams Signed Boots",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Sounders Training Shorts - Grey - 7 - Autographed: Cristian Roldan",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "State of Decay 2 Waterbottle",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Super Nintendo Classic Edition",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Super Nintendo Classic Edition",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Supernatural 1967 Impala Matchbox Car",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "SWSB Rebels POP Tees Rebels Group Shot T Shirt - XL",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Terminator Half Scale Endo Skull Collectible",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Titanfall 2 - PC - Digital",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Titanfall 2 - PS4 ",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Titanfall 2 Collector's Edition - Pilot Helmet!",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "WARP - Limited Edition Collectible 328/1000",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Xbox One Controller Charging Stand",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "You Shall Not Pass Scarf (Designed and Signed by Stefan Frei)",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "You Shall Not Pass Scarf (Designed and Signed by Stefan Frei)",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2017 MLS All-Star Jersey signed by Team (Size-M)",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2017 MLS All-Star Keeper Kit - 24 Frei - Signed: Stefan Frei",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": "",
+    "DateToDisplay": "2017-11-01T14:00:00-07:00"
+  },
+  {
+
+    "PrizeName": "Boots - Autographed: Cristian Roldan",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "David Chiumento Signed Kit",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Lawrence Nycholat 2006-2007 WAS Capitals Game-Worn Hockey Sweater (Meigray D10034)",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Obafemi Martins Autographed Sounders Kit",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Pair of Game-Worn Keeper Gloves - (Signed by Stefan Frei)",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Pair of MLS All-Star Game-Issued Boots - MLS All Star - Frei - Signed: Stefan Frei",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Red 2017 Keeper Kit - 24 Frei - Signed: Stefan Frei",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Todd Fedoruk 2006-2007 PHI Flyers Game-Worn Hockey Sweater (Meigray D01615)",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Xbox One X",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Zach Bogosian 2010-2011 NAS Thrashers Game-Worn Hockey Sweater (Meigray H07930)",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Autographed Harlem Globetrotters Basketball",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Autographed Harlem Globetrotters Basketball",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2017 Sounders Scarf - Team Signed",
+    "Donor": "Glenn White/Sounders",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Heritage Sounders Kit - Autographed: Nicolas Lodeiro",
+    "Donor": "Glenn White/Sounders",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Soccer Ball - Autographed: Joevin Jones",
+    "Donor": "Glenn White/Sounders",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - PS4 - Thorns Signed: Coach Mark Parsons",
+    "Donor": "Glenn/Brandon/Keith",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/96XmPqI.jpg",
+    "Restriction": "Timbers/Thorns",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - PS4 - Thorns Signed: Heath, Long, Horan",
+    "Donor": "Glenn/Brandon/Keith",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/96XmPqI.jpg",
+    "Restriction": "Timbers/Thorns",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 - Xbox - Thorns Signed: Nadim, Sonnett, Franch",
+    "Donor": "Glenn/Brandon/Keith",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/96XmPqI.jpg",
+    "Restriction": "Timbers/Thorns",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Portland Thorns Team-Signed Scarf",
+    "Donor": "Glenn/Brandon/Keith",
+    "Tier": 50,
+    "Notes": "https://i.imgur.com/AMUfyiD.jpg",
+    "Restriction": "Timbers/Thorns",
+    "WonBy": "https://i.imgur.com/RosD2kX.jpg"
+  },
+  {
+
+    "PrizeName": "FIFA 18 PS4 Whitecaps signed",
+    "Donor": "Glenn/Subhedgehog",
+    "Tier": 10,
+    "Notes": "https://pbs.twimg.com/media/DMh0m2lUEAApQCd.jpg:large",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 PS4 Whitecaps signed",
+    "Donor": "Glenn/Subhedgehog",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 PS4 Whitecaps signed",
+    "Donor": "Glenn/Subhedgehog",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 XBOX Whitecaps signed",
+    "Donor": "Glenn/Subhedgehog",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 XBOX Whitecaps signed",
+    "Donor": "Glenn/Subhedgehog",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "FIFA 18 XBOX Whitecaps signed",
+    "Donor": "Glenn/Subhedgehog",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Portland Timbers half log slice signed by Diego Valeri",
+    "Donor": "Keith Palau",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/hd2GDUT.jpg",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Portland Timbers half log slice signed by most of 2017 Timbers squad",
+    "Donor": "Keith Palau",
+    "Tier": 50,
+    "Notes": "https://i.imgur.com/MwQw2V8.jpg",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Portland Timbers \"You Are Loved\" squarf, signed by most of 2017 Timbers Squad",
+    "Donor": "Keith Palau",
+    "Tier": 50,
+    "Notes": "https://i.imgur.com/QhpbpDp.jpg",
+    "Restriction": "Timbers",
+    "WonBy": "https://i.imgur.com/krMKAWb.jpg"
+  },
+  {
+
+    "PrizeName": "Portland Timbers Green Authentica Team Signed Kit, size M",
+    "Donor": "Keith Palau",
+    "Tier": 50,
+    "Notes": "https://i.imgur.com/cf9xmvq.jpg",
+    "Restriction": "Timbers",
+    "WonBy": "https://i.imgur.com/0Ty5r9U.jpg"
+  },
+  {
+
+    "PrizeName": "Portland Timbers Framed \"Double Post\" PK Photo",
+    "Donor": "Keith Palau",
+    "Tier": 50,
+    "Notes": "https://i.imgur.com/aMmlo8t.jpg",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Portland Timbers 2011 Inaugural Season Skate Deck",
+    "Donor": "Keith Palau",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/qyzJNDE.jpg",
+    "Restriction": "Timbers",
+    "WonBy": "https://i.imgur.com/bjeBgCF.jpg"
+  },
+  {
+
+    "PrizeName": "Homemade Quilt",
+    "Donor": "Kelly Weiler",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2016 History Heritage Tradition Champions Star Edition scarf",
+    "Donor": "Likkit P",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/zma2wvk.jpg",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2016 History Heritage Tradition Champions Star Edition scarf",
+    "Donor": "Likkit P",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/zma2wvk.jpg",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2016 History Heritage Tradition Champions Star Edition scarf",
+    "Donor": "Likkit P",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/zma2wvk.jpg",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2016 History Heritage Tradition Champions Star Edition scarf",
+    "Donor": "Likkit P",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/zma2wvk.jpg",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2016 History Heritage Tradition Champions Star Edition scarf",
+    "Donor": "Likkit P",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/zma2wvk.jpg",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2016 History Heritage Tradition Champions Star Edition scarf",
+    "Donor": "Likkit P",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/zma2wvk.jpg",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2016 History Heritage Tradition Champions Star Edition scarf",
+    "Donor": "Likkit P",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/zma2wvk.jpg",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2016 History Heritage Tradition Champions Star Edition scarf",
+    "Donor": "Likkit P",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/zma2wvk.jpg",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2016 History Heritage Tradition Champions Star Edition scarf",
+    "Donor": "Likkit P",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/zma2wvk.jpg",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "2016 History Heritage Tradition Champions Star Edition scarf",
+    "Donor": "Likkit P",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/zma2wvk.jpg",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Sounders 2016 Pacific Blue replica kit w/ Gears 4 logo printing (XL)",
+    "Donor": "Manuch Sadri",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/FpBAhzC.jpg",
+    "Restriction": "Sounders",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Super Nintendo Classic Edition",
+    "Donor": "Manuch Sadri",
+    "Tier": 10,
+    "Notes": "https://i.imgur.com/urlIoTr.jpg",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Old Rip Van Winkle 10 yr Straight Kentucky Bourbon Whiskey (2016)",
+    "Donor": "Manuch Sadri",
+    "Tier": 50,
+    "Notes": "https://i.imgur.com/4Yf7gNy.jpg",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Borderlands - CL4PTRAP",
+    "Donor": "Paul S-H",
+    "Tier": 10,
+    "Notes": "No packaging",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Borderlands - Handsome Jack",
+    "Donor": "Paul S-H",
+    "Tier": 10,
+    "Notes": "No packaging",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Borderlands - Mad Moxxi",
+    "Donor": "Paul S-H",
+    "Tier": 10,
+    "Notes": "No packaging",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Borderlands - Psycho",
+    "Donor": "Paul S-H",
+    "Tier": 10,
+    "Notes": "https://pbs.twimg.com/media/DMSCvD3U8AA06K4.jpg",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Funko Pop! Mass Effect - Garrus",
+    "Donor": "Paul S-H",
+    "Tier": 10,
+    "Notes": "No packaging",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Kendall Waston Black /w black logo New Era Flexfit 110 hat - \"stealth\" signed",
+    "Donor": "Paul S-H",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Kendall Waston White /w black logo New Era Flexfit 110 hat - signed",
+    "Donor": "Paul S-H",
+    "Tier": 10,
+    "Notes": "https://pbs.twimg.com/media/DMOwBFoVQAEl7ms.jpg",
+    "Restriction": "Whitecaps",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Xbox One Ocean Shadow SE wireless controller",
+    "Donor": "Rob Hultkrantz",
+    "Tier": 10,
+    "Notes": "https://imgur.com/IUVlj80",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Xbox One Blue wireless controller",
+    "Donor": "Rob Hultkrantz",
+    "Tier": 10,
+    "Notes": "https://imgur.com/8OEh4oO",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "SNES Mini",
+    "Donor": "Rob Hultkrantz",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "SNES Mini",
+    "Donor": "Rob Hultkrantz",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Cascadian Gamers Xbox Design Lab Controller",
+    "Donor": "Rob Hultkrantz",
+    "Tier": 10,
+    "Notes": "https://imgur.com/W7wm6aA",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Cascadian Gamers Xbox Design Lab Controller",
+    "Donor": "Rob Hultkrantz",
+    "Tier": 10,
+    "Notes": "https://imgur.com/W7wm6aA",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "1 Jar of Sheba's Award-Winning Jam - Blueberry",
+    "Donor": "Sheba",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "1 Jar of Sheba's Award-Winning Jam - Boysenberry",
+    "Donor": "Sheba",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "1 Jar of Sheba's Award-Winning Jam - Marionberry",
+    "Donor": "Sheba",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "1 Jar of Sheba's Award-Winning Jam - Peach",
+    "Donor": "Sheba",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "1 Jar of Sheba's Award-Winning Jam - Raspberry",
+    "Donor": "Sheba",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "108 Easy Company/No Drama v1 Fan Scarf",
+    "Donor": "Tom Dixon",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Blue and White Fringe (Cascadia) NP TA Scarf",
+    "Donor": "Tom Dixon",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Fan Patch Set #1",
+    "Donor": "Tom Dixon",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Fan Patch Set #2",
+    "Donor": "Tom Dixon",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Fan Patch Set #3",
+    "Donor": "Tom Dixon",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "North End Ultras 3.0 Red/White Bar TA Scarf",
+    "Donor": "Tom Dixon",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "North End Ultras 4.0 TA Scarf",
+    "Donor": "Tom Dixon",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Red and White Fringe NP TA Scarf",
+    "Donor": "Tom Dixon",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Red White and Blue Fringe (World Cup 2014) NP TA Scarf",
+    "Donor": "Tom Dixon",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Tasting for Four - Winter's Hill Estate Winery",
+    "Donor": "Tom Dixon",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "We Are F*^&ing Dynamite TA Scarf",
+    "Donor": "Tom Dixon",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "Timbers",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Harlem Globetrotters Headband and Wristband Set",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Harlem Globetrotters Headband and Wristband Set",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Harlem Globetrotters Headband and Wristband Set",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Harlem Globetrotters Headband and Wristband Set",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Lego Minifigure Ice Lollipop Mould",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Black Mandalorian Logo Stocking Cap",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Wampa Hat",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "C is for Cthulhu - Lovecraft Alphabet Book",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Box - Arbequina Oolong by Smith Teamakers",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Box - Arbequina Oolong by Smith Teamakers",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Box - Arbequina Oolong by Smith Teamakers",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Pouch - Pumpkin Spice Oolong",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Pouch - Creme De La Berry Green",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Pouch - Valerian Dream",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Pouch - Moonlight Jasmine",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "$50 Gift Card to Poquitos",
+    "Donor": "Drew Whitman",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "$50 Gift Card to Poquitos",
+    "Donor": "Drew Whitman",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "$75 Gift Card to Rhine House",
+    "Donor": "Drew Whitman",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+
+    "PrizeName": "Bead Cowl - Blue/Green, 100% Wool, PNW Handblown Glass Beads - Knitpunk",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": "",
+    "DateToDisplay": "2017-11-03T14:00:00-07:00"
+  },
+  {
+
+    "PrizeName": "11x60 100% Silk Chiffon Cascadia Scarf - Knitpunk",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": "",
+    "DateToDisplay": "2017-11-03T14:00:00-07:00"
+  },
+  {
+
+    "PrizeName": "76x34 80/20 Wool/Silk Green/Gold Shawl - Knitpunk",
+    "Donor": "Glenn White",
+    "Tier": 50,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": "",
+    "DateToDisplay": "2017-11-03T14:00:00-07:00"
+  },
+  {
+
+    "PrizeName": "11x60 100% Silk w/Satin Stripe Cascadia Scarf - Knitpunk",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": "",
+    "DateToDisplay": "2017-11-03T14:00:00-07:00"
+  },
+  {
+
+    "PrizeName": "8x70 100% Silk Cascadia Scarf",
+    "Donor": "Glenn White",
+    "Tier": 10,
+    "Notes": "",
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+    "PrizeName": "Call of Duty: WW2",
+    "Donor": "Keith Hodo",
+    "Notes": "Winner chooses platform (XBX, PS4, PC) and format (digital/DVD)",
+    "Tier": 10,
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+    "PrizeName": "Call of Duty: WW2",
+    "Donor": "Keith Hodo",
+    "Notes": "Winner chooses platform (XBX, PS4, PC) and format (digital/DVD)",
+    "Tier": 10,
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+    "PrizeName": "Call of Duty: WW2",
+    "Donor": "Keith Hodo",
+    "Notes": "Winner chooses platform (XBX, PS4, PC) and format (digital/DVD)",
+    "Tier": 10,
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+    "PrizeName": "Call of Duty: WW2",
+    "Donor": "Keith Hodo",
+    "Notes": "Winner chooses platform (XBX, PS4, PC) and format (digital/DVD)",
+    "Tier": 10,
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+    "PrizeName": "Call of Duty: WW2",
+    "Donor": "Keith Hodo",
+    "Notes": "Winner chooses platform (XBX, PS4, PC) and format (digital/DVD)",
+    "Tier": 10,
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+    "PrizeName": "Call of Duty: WW2",
+    "Donor": "Keith Hodo",
+    "Notes": "Winner chooses platform (XBX, PS4, PC) and format (digital/DVD)",
+    "Tier": 10,
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+    "PrizeName": "Call of Duty: WW2",
+    "Donor": "Keith Hodo",
+    "Notes": "Winner chooses platform (XBX, PS4, PC) and format (digital/DVD)",
+    "Tier": 10,
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+    "PrizeName": "Call of Duty: WW2",
+    "Donor": "Keith Hodo",
+    "Notes": "Winner chooses platform (XBX, PS4, PC) and format (digital/DVD)",
+    "Tier": 10,
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+    "PrizeName": "Call of Duty: WW2",
+    "Donor": "Keith Hodo",
+    "Notes": "Winner chooses platform (XBX, PS4, PC) and format (digital/DVD)",
+    "Tier": 10,
+    "Restriction": "",
+    "WonBy": ""
+  },
+  {
+    "PrizeName": "Call of Duty: WW2",
+    "Donor": "Keith Hodo",
+    "Notes": "Winner chooses platform (XBX, PS4, PC) and format (digital/DVD)",
+    "Tier": 10,
+    "Restriction": "",
     "WonBy": ""
   }
 ]

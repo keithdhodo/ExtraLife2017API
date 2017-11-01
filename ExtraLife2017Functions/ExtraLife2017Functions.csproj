@@ -3,6 +3,7 @@
     <TargetFramework>net462</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <None Remove="SeedData\AllItems.json" />
     <None Remove="SeedData\seed.json" />
   </ItemGroup>
   <ItemGroup>
