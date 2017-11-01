@@ -30,7 +30,7 @@ namespace ExtraLife2017Functions
             builder.AddRange(prizes);
 
             // Fetching the name from the path parameter in the request URL
-            return req.CreateResponse(HttpStatusCode.OK, JsonConvert.SerializeObject(builder));
+            return req.CreateResponse(HttpStatusCode.OK, builder);
         }
     }
 }
