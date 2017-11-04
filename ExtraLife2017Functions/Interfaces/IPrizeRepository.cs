@@ -19,5 +19,6 @@ namespace ExtraLife2017Functions.Interfaces
         Task<IEnumerable<Prize>> SaveAsync(Prize product);
         Task<IEnumerable<Prize>> SaveAsync(int id, Prize product);
         Task<bool> WriteDataAsync(List<Prize> products, bool isUpdate = false);
+        Task<IEnumerable<Prize>> SaveAsync(List<Prize> product);
     }
 }

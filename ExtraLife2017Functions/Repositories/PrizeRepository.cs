@@ -9,7 +9,6 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.IO;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ExtraLife2017Functions.Repositories
@@ -80,8 +79,10 @@ namespace ExtraLife2017Functions.Repositories
                 ? prize.DateAdded.ToUniversalTime()
                 : DateTime.UtcNow; // if the timestamp is not in the future by more than five minutes, use DateTime.UtcNow
 
-            await WriteDataAsync(new List<Prize>() { prize });
-            return new List<Prize>() { prize };
+            var prizesToAdd = new List<Prize>() { prize };
+            EnsureAllFieldsHaveEntries(prizesToAdd);            
+            await WriteDataAsync(prizesToAdd);
+            return prizesToAdd;
         }
 
         /// <summary>
@@ -105,6 +106,26 @@ namespace ExtraLife2017Functions.Repositories
 
             await WriteDataAsync(new List<Prize>() { prize }, isUpdate: true);
             return new List<Prize>() { prize };
+        }
+
+        public async Task<IEnumerable<Prize>> SaveAsync(List<Prize> prizes)
+        {
+            // Read in the existing prizes
+            var result = await RetrieveAsync();
+            var nextPrizeID = result.ToList().Max(p => p.PrizeId) + 1;
+
+            foreach(var prize in prizes)
+            {
+                prize.PrizeId = prizes.Max(p => p.PrizeId) + 1; // Assign a new Id
+                var utcNow = new DateTimeOffset(DateTime.UtcNow);
+                prize.DateAdded = ((new DateTimeOffset(prize.DateAdded) - new DateTimeOffset(DateTime.UtcNow)).Minutes >= 5)
+                    ? prize.DateAdded.ToUniversalTime()
+                    : DateTime.UtcNow; // if the timestamp is not in the future by more than five minutes, use DateTime.UtcNow
+                nextPrizeID++;
+            }
+            EnsureAllFieldsHaveEntries(prizes);
+            await WriteDataAsync(prizes);
+            return prizes;
         }
 
         public async Task<bool> WriteDataAsync(List<Prize> prizes, bool isUpdate = false)
@@ -152,34 +173,38 @@ namespace ExtraLife2017Functions.Repositories
             if (count == 0)
             {
                 var prizeData = CreateSeedData();
-
-                for (int i = 0; i < prizeData.Count; i++)
-                {
-                    var prize = prizeData[i];
-
-                    if (prize._id == Guid.Empty)
-                    {
-                        prize._id = Guid.NewGuid();
-                    }
-
-                    if (prize.PrizeId == 0)
-                    {
-                        prize.PrizeId = i + 1;
-                    }
-
-                    if (prize.DateToDisplay == DateTime.MinValue)
-                    {
-                        prize.DateToDisplay = DateTime.UtcNow;
-                    }
-
-                    if (prize.DateAdded == DateTime.MinValue)
-                    {
-                        prize.DateAdded = DateTime.UtcNow;
-                    }
-                }
+                EnsureAllFieldsHaveEntries(prizeData);
 
                 // Use InsertOneAsync for single BsonDocument insertion.
                 await WriteDataAsync(prizeData);
+            }
+        }
+
+        private static void EnsureAllFieldsHaveEntries(List<Prize> prizeData)
+        {
+            for (int i = 0; i < prizeData.Count; i++)
+            {
+                var prize = prizeData[i];
+
+                if (prize._id == Guid.Empty)
+                {
+                    prize._id = Guid.NewGuid();
+                }
+
+                if (prize.PrizeId == 0)
+                {
+                    prize.PrizeId = i + 1;
+                }
+
+                if (prize.DateToDisplay == DateTime.MinValue)
+                {
+                    prize.DateToDisplay = DateTime.UtcNow;
+                }
+
+                if (prize.DateAdded == DateTime.MinValue)
+                {
+                    prize.DateAdded = DateTime.UtcNow;
+                }
             }
         }
 
