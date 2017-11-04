@@ -22,12 +22,12 @@ namespace ExtraLife2017Functions
         {
             log.Info("AddNewPrize HTTP trigger function processed a request.");
 
-            var product = JsonConvert.DeserializeObject<Prize>(req.Content.ReadAsStringAsync().Result);
+            var prize = JsonConvert.DeserializeObject<Prize>(req.Content.ReadAsStringAsync().Result);
 
             IPrizeRepository repository = new PrizeRepository();
-            var newProduct = repository.SaveAsync(product).Result.ToImmutableList();
+            var newPrize = repository.SaveAsync(prize).Result.ToImmutableList();
             var builder = ImmutableList.CreateBuilder<Prize>();
-            builder.AddRange(newProduct);
+            builder.AddRange(newPrize);
 
             return req.CreateResponse(HttpStatusCode.OK, builder);
         }

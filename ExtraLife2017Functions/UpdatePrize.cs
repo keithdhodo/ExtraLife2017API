@@ -15,7 +15,10 @@ namespace ExtraLife2017Functions
     public static class UpdatePrize
     {
         [FunctionName("UpdatePrize")]
-        public static async Task<HttpResponseMessage> Run([HttpTrigger(AuthorizationLevel.Function, "post", Route = "Prizes/Update")]HttpRequestMessage req, TraceWriter log)
+        public static async Task<HttpResponseMessage> Run(
+            [HttpTrigger(AuthorizationLevel.Function, "post", Route = "Prizes/Update")]
+            HttpRequestMessage req, 
+            TraceWriter log)
         {
             log.Info("PutUpdateProduct HTTP trigger function processed a request.");
 
