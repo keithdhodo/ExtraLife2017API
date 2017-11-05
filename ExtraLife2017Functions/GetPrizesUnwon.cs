@@ -1,14 +1,13 @@
-using System.Collections.Immutable;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
-using System.Threading.Tasks;
 using ExtraLife2017Functions.Interfaces;
 using ExtraLife2017Functions.Models;
 using ExtraLife2017Functions.Repositories;
 using Microsoft.Azure.WebJobs;
 using Microsoft.Azure.WebJobs.Extensions.Http;
 using Microsoft.Azure.WebJobs.Host;
+using System.Collections.Immutable;
+using System.Linq;
+using System.Net;
+using System.Net.Http;
 
 namespace ExtraLife2017Functions
 {
